@@ -2,7 +2,7 @@
 
 ### Part 1: Instruction
 Watch the following video to help you get started on this lesson. Take notes on your copy of the slides so you can refer back to the information later.
-- [format function]()
+- [format function](https://www.youtube.com/watch?v=fQPuBRSONZs)
 
 ### Part 2: Exploration
 1. Open up the [cs50 IDE](https://ide.cs50.io).
